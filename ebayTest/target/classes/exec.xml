@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "Experience Test" >
+	
+	
+
+    <test name = "ebay test">
+
+     <classes>
+     
+           <class name = "com.ebay.qa.testcases.homePageTest"></class>
+          <class name = "com.exp.qa.testcases.loginPageTest"></class>
+           
+
+           
+      </classes>
+     
+    </test>
+    
+</suite>
+
